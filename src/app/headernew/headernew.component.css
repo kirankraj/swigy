@@ -1,0 +1,12 @@
+svg {
+  fill: #fc8019;
+  position: relative;
+  left: 80px;
+}
+.navbar-expand-lg .navbar-collapse {
+  display: -webkit-box !important;
+  display: flex !important;
+  flex-basis: auto;
+  position: relative;
+  bottom: 78px;
+}

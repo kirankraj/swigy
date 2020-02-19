@@ -1,0 +1,42 @@
+.col-md-4 {
+  position: relative;
+  bottom: 51px;
+  right: 108px;
+}
+
+img {
+  width: 100%;
+  position: relative;
+  bottom: 141px;
+  left: 190px;
+}
+
+.img2 {
+  position: relative;
+  top: 0;
+}
+
+.icons {
+  position: relative;
+  width: 200px;
+  top: 175px;
+  right: 187px;
+}
+
+.icon1 {
+  position: relative;
+  /* right: 93px; */
+  left: 418px;
+  bottom: 201px;
+}
+
+h1 {
+  font-weight: 700;
+  color: #282c3f;
+  margin-bottom: 16px;
+}
+h4 {
+  color: #a2a3ac;
+  font-size: 20px;
+  font-weight: lighter;
+}

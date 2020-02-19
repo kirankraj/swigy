@@ -1,0 +1,13 @@
+.btn.btn-secondary {
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.card {
+  box-shadow: 7px 7px 19px -5px orange;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

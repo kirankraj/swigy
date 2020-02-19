@@ -1,0 +1,48 @@
+.col-md-4 {
+  position: relative;
+  background-color: #2b1e16;
+  height: 400px;
+}
+.img1 {
+  position: relative;
+  padding: 7px;
+  height: 230px;
+  left: 147px;
+}
+
+.row {
+  position: relative;
+  bottom: 192px;
+}
+
+span {
+  color: #fff;
+}
+
+span h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+span p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #c8b4aa;
+  text-align: center;
+  position: relative;
+  right: 83px;
+}
+
+.content-1 {
+  position: absolute;
+  top: 260px;
+}
+
+.content-2 {
+  position: absolute;
+  top: 260px;
+}
+
+.content-3 {
+  position: absolute;
+  top: 260px;
+}

@@ -1,0 +1,28 @@
+.navbar {
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+  width: 90%;
+}
+
+input {
+  min-width: 563px;
+  margin-left: -20px;
+  border-radius: 0;
+  padding: 30px;
+}
+
+button {
+  background-color: #fc8019;
+  height: 61px;
+  margin-left: -9px;
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 0px;
+}
+
+input::placeholder {
+  color: #686b78;
+  font-weight: 500;
+}

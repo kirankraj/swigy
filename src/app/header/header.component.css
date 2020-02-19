@@ -1,0 +1,57 @@
+svg {
+  fill: #fc8019;
+  position: relative;
+  left: 80px;
+  bottom: 56px;
+}
+
+.navbar {
+  height: 515px;
+  /* background-color: #fff; */
+  width: 840px;
+}
+
+.navbar-nav {
+  position: relative;
+  bottom: 126px;
+  padding: 0px;
+  left: 275px;
+}
+
+.text-content {
+  position: relative;
+  right: 395px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.text-1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.text-2 {
+  font-size: 22px;
+  color: #806b78;
+}
+/* .text-content2 {
+  font-size: 21px;
+  position: relative;
+  left: 105px;
+  font-weight: 300;
+} */
+.foot-text {
+  position: relative;
+  bottom: 185px;
+  left: 100px;
+  color: #686b78;
+}
+h6 {
+  font-size: 15px;
+  color: grey;
+}
+
+.login {
+  font-size: 17px;
+  font-weight: 700;
+}

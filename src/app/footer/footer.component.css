@@ -1,0 +1,67 @@
+* {
+  background-color: #000;
+  color: white;
+}
+
+.icons2 {
+  width: 200px;
+  height: 0;
+  position: relative;
+  top: 70px;
+}
+
+.container {
+  max-width: 100%;
+  margin-top: -51px;
+  padding: 70px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.icon1 {
+  position: relative;
+  margin-bottom: 22px;
+  border: 1px solid;
+  border-radius: 10px;
+  outline: none;
+}
+
+.icon2 {
+  position: relative;
+  margin-bottom: 22px;
+  border: 1px solid;
+  border-radius: 10px;
+  outline: none;
+}
+
+h6 {
+  color: #808080;
+  font-weight: 700;
+}
+
+.row1 {
+  border-bottom: 1px solid grey;
+}
+
+.swiggyfoot {
+  width: 40%;
+}
+
+h4 {
+  font-size: 18px;
+  position: relative;
+  top: 14px;
+  left: 55px;
+}
+
+.footsocial {
+  position: relative;
+  left: 118px;
+}
+
+.logo {
+  padding: 10px;
+  height: 46px;
+}

@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="col-md-6 offset-3">
+    <div class="card">
+      <div class="card-body">
+        <h1>{{ username | uppercase }}</h1>
+        <ul class="list-group">
+          <li class="list-group-item">email : {{ email }}</li>
+          <span class="badge badge-danger">
+            Date : {{ date | date: "shortDate" }}
+          </span>
+          <li class="list-group-item">Phone number : {{ phonenumber }}</li>
+          <li class="list-group-item">Location: {{ location }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
