@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # NewProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -50,3 +51,7 @@ swigy using firebase
 # swiggy
 swigy using firebase
 >>>>>>> 62a269d5649bbff6ecc59bcaf30d27f5d3d8cbd9
+=======
+# swigy
+swigy using fire base
+>>>>>>> 13952a5df6a9293e00d450667be63340490cb4bb
